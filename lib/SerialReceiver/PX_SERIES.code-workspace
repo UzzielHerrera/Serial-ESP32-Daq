@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Proyectos/PX_XFER_TEST/esp32/Hello_world"
+		},
+		{
+			"name": "Hello2",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"task.h": "c",
+			"gpio.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
