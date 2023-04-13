@@ -15,6 +15,7 @@ SerialReceiver serialReceiver;
 SerialExecuter serialExecuter;
 State state;
 
+// Pin Definition for ESP32
 Pin V3v3(1, 40, false, false, false, false, false, false);
 Pin GND(2, 41, false, false, false, false, false, false);
 Pin D15(3, 15, true, true, true, true, false, false);
